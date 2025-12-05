@@ -1,0 +1,11 @@
+User-Agent: *
+
+# Allow robots to be able to crawl the OG Image API route and all the subpaths
+Allow: /docs/api/og/*
+
+Disallow:
+Disallow: /api/
+
+Sitemap: https://mintlify.com/sitemap.xml
+
+Sitemap: https://landing.mintlify.com/sitemap.xml

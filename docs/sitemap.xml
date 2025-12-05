@@ -1,0 +1,366 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+  <url>
+    <loc>https://mintlify.com/docs/advanced/custom/css</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/advanced/custom/js</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/advanced/rest-api/discovery/create-topic</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/advanced/rest-api/discovery/generate-message</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/advanced/rest-api/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/advanced/rest-api/update/status</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/advanced/rest-api/update/trigger</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/advanced/subpath/cloudflare</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/advanced/subpath/route53-cloudfront</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/advanced/subpath/vercel</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/advanced/widget/chat</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/api-playground/mdx/authentication</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/api-playground/mdx/configuration</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/api-playground/openapi/advanced-features</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/api-playground/openapi/setup</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/api-playground/openapi/writing-openapi</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/api-playground/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/api-playground/troubleshooting</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/changelog/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/code</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/accordion-groups</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/accordions</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/callouts</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/card-groups</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/cards</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/code</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/code-groups</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/expandables</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/frames</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/icons</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/mermaid-diagrams</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/params</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/responses</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/steps</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/sticky-examples</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/tabs</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/tooltips</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/content/components/update</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/development</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/image-embeds</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/amplitude</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/clearbit</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/fathom</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/google-analytics</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/google-tag-manager</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/heap</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/hotjar</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/koala</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/logrocket</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/mixpanel</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/pirsch</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/plausible</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/analytics/posthog</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/privacy/osano</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/privacy/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/sdks/speakeasy</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/sdks/stainless</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/support/front</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/support/intercom</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/integrations/support/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/list-table</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/migration</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/page</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/quickstart</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/reusable-snippets</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/add-members</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/authentication</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/authentication-setup/choosing-a-handshake</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/authentication-setup/jwt</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/authentication-setup/mintlify</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/authentication-setup/oauth</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/authentication-setup/password</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/authentication-vs-personalization</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/personalization</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/personalization-setup/choosing-a-handshake</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/personalization-setup/jwt</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/personalization-setup/oauth</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/personalization-setup/shared-session</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/authentication-personalization/sending-data</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/broken-links</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/custom-domain</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/github</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/gitlab</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/global</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/navigation</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/preview-deployments</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/seo</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/settings/versioning</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/text</loc>
+  </url>
+
+  <url>
+    <loc>https://mintlify.com/docs/web-editor</loc>
+  </url>
+</urlset>

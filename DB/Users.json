@@ -1,0 +1,165 @@
+{
+    "users": [
+        {
+            "name": "favemorrex",
+            "email": "testingmail@testmail.com",
+            "inviteCode": "ICDT6F",
+            "ip": "162.158.95.72",
+            "os": "Linux",
+            "browser": "Chrome",
+            "browserVersion": "119",
+            "browserLanguage": "ru",
+            "browserPlatform": "Linux x86_64",
+            "browserUserAgent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Safari\/537.36",
+            "loggedIn": true
+        },
+        {
+            "name": "KidexS",
+            "email": "anon@gmail.com",
+            "inviteCode": "LGOTYR",
+            "ip": "172.68.193.174",
+            "os": "Windows",
+            "browser": "Chrome",
+            "browserVersion": "135",
+            "browserLanguage": "ru-RU",
+            "browserPlatform": "Win32",
+            "browserUserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36",
+            "loggedIn": true
+        },
+        {
+            "name": "LGOTYR",
+            "email": "LGOTYR@gmail.com",
+            "inviteCode": "LGOTYR",
+            "ip": "172.68.193.175",
+            "os": "Windows",
+            "browser": "Chrome",
+            "browserVersion": "135",
+            "browserLanguage": "ru-RU",
+            "browserPlatform": "Win32",
+            "browserUserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36",
+            "loggedIn": true
+        },
+        {
+            "name": "querteo",
+            "email": "querteodes@gmail.com",
+            "inviteCode": "LGOTYR",
+            "ip": "172.71.103.18",
+            "os": "iOS",
+            "browser": "Safari",
+            "browserVersion": "18",
+            "browserLanguage": "ru",
+            "browserPlatform": "iPhone",
+            "browserUserAgent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.3.1 Mobile\/15E148 Safari\/604.1",
+            "loggedIn": true
+        },
+        {
+            "name": "waebgaw",
+            "email": "waebgaw@gmail.com",
+            "inviteCode": "HT2D77",
+            "ip": "162.158.94.22",
+            "os": "Windows",
+            "browser": "Firefox",
+            "browserVersion": "138",
+            "browserLanguage": "ru-RU",
+            "browserPlatform": "Win32",
+            "browserUserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+            "loggedIn": true
+        },
+        {
+            "name": "sss",
+            "email": "sss@gmail.com",
+            "inviteCode": "RUHRAD",
+            "ip": "51.159.14.232",
+            "os": "Windows",
+            "browser": "Edge",
+            "browserVersion": "136",
+            "browserLanguage": "ru",
+            "browserPlatform": "Win32",
+            "browserUserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36 Edg\/136.0.0.0",
+            "loggedIn": true,
+            "wallets": [
+                "MetaMask"
+            ],
+            "walletsPlatform": "Windows"
+        },
+        {
+            "name": "RUHRADRUHRADRUHRADRUHRADRUHRADRUHRADRUHRADRUHRADRUHRADRUHRADRUHRADRUHRADRUHRADRUHRADRUHRAD RUHRADRUHRADRUHRADRUHRAD",
+            "email": "RUHRADR@ADRUHRAD.RUHRAD",
+            "inviteCode": "RUHRAD",
+            "ip": "51.159.14.232",
+            "os": "Windows",
+            "browser": "Edge",
+            "browserVersion": "136",
+            "browserLanguage": "ru",
+            "browserPlatform": "Win32",
+            "browserUserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36 Edg\/136.0.0.0",
+            "loggedIn": true,
+            "wallets": [
+                "MetaMask"
+            ],
+            "walletsPlatform": "Windows"
+        },
+        {
+            "name": "awgeawwegwa",
+            "email": "awgeawwegwa@gmail.com",
+            "inviteCode": "HT2D77",
+            "ip": "217.15.199.16",
+            "os": "Windows",
+            "browser": "Chrome",
+            "browserVersion": "135",
+            "browserLanguage": "ru-RU",
+            "browserPlatform": "Win32",
+            "browserUserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36",
+            "loggedIn": true,
+            "wallets": [],
+            "walletsPlatform": "Windows"
+        },
+        {
+            "name": "NAME",
+            "email": "ICDT6FICDT6F@mail.net",
+            "inviteCode": "ICDT6F",
+            "ip": "57.129.20.212",
+            "os": "Windows",
+            "browser": "Edge",
+            "browserVersion": "136",
+            "browserLanguage": "ru",
+            "browserPlatform": "Win32",
+            "browserUserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36 Edg\/136.0.0.0",
+            "loggedIn": true,
+            "wallets": [
+                "MetaMask"
+            ],
+            "walletsPlatform": "Windows"
+        },
+        {
+            "name": "Name",
+            "email": "RUHRADRUHRAD@mail.net",
+            "inviteCode": "RUHRAD",
+            "ip": "57.129.20.212",
+            "os": "Windows",
+            "browser": "Edge",
+            "browserVersion": "136",
+            "browserLanguage": "ru",
+            "browserPlatform": "Win32",
+            "browserUserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/136.0.0.0 Safari\/537.36 Edg\/136.0.0.0",
+            "loggedIn": true,
+            "wallets": [
+                "MetaMask"
+            ],
+            "walletsPlatform": "Windows"
+        },
+        {
+            "name": "",
+            "email": "",
+            "inviteCode": "",
+            "ip": "57.129.68.68",
+            "os": "",
+            "browser": "",
+            "browserVersion": "",
+            "browserLanguage": "",
+            "browserPlatform": "",
+            "browserUserAgent": "",
+            "loggedIn": true
+        }
+    ]
+}

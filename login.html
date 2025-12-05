@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="csrf-token" content="<?php echo htmlspecialchars($_SESSION['csrf_token'] ?? ''); ?>">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="format-detection" content="address=no" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-touch-fullscreen" content="yes" />
+  <title>Login - Shadyfi</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
+  <link rel="icon" href="logo/logo.svg" type="image/svg+xml">
+</head>
+<body>
+  <div class="loading-overlay">
+    <img src="logo/full.svg" alt="Shadyfi Loading Logo" class="loading-logo">
+  </div>
+
+  <a href="/" class="home-link">
+    <img src="logo/logo.svg" alt="Home" class="home-icon">
+    <span>Shadyfi</span>
+  </a>
+
+  <div class="main-container">
+    <div class="form-container">
+      <div class="logo">
+        <img src="logo/logo.svg" alt="Shadyfi Logo" class="logo-icon">
+        Shadyfi
+      </div>
+      
+      <h2>Welcome back</h2>
+      <p>Sign in to access your documentation.</p>
+
+      <form id="login-form">
+        <div>
+          <input type="email" id="login-email" placeholder="Email" required />
+          <div class="error-message" id="email-error">Please enter a valid email</div>
+        </div>
+        
+        <div>
+          <input type="text" id="login-invite-code" placeholder="Invite code (6 characters)" required maxlength="6" />
+          <div class="error-message" id="code-error">Please enter a valid 6-character invite code</div>
+        </div>
+
+        <button type="submit">Sign In</button>
+      </form>
+
+      <p class="signup-link">Don't have an account? <a href="/registry" class="switch-form">Sign up</a></p>
+    </div>
+
+    <div class="image-carousel">
+      <img src="img/Registry.png" alt="Image 1" class="carousel-image active">
+      <img src="img/Registry1.png" alt="Image 2" class="carousel-image">
+      <img src="img/Registry2.png" alt="Image 3" class="carousel-image">
+      <img src="img/Registry3.png" alt="Image 4" class="carousel-image">
+      <img src="img/Registry4.png" alt="Image 5" class="carousel-image">
+      <img src="img/Registry5.png" alt="Image 6" class="carousel-image">
+    </div>
+  </div>
+
+  <script src="js/auth.js"></script>
+</body>
+</html>
